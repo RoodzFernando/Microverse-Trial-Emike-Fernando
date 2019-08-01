@@ -1,0 +1,48 @@
+body {
+    background: #a9d7d1;
+}
+
+.content {
+    width: 1200px;
+    background: white;
+    margin: 0 auto;
+}
+
+#title,
+#description {
+    text-align: center;
+}
+
+body {
+    background: #a9d7d1;
+}
+
+#title,
+#description {
+    text-align: center;
+}
+
+.content {
+    width: 1200px;
+    background: white;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.form-input {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+input[type="submit"] {
+    background-color: aqua;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
